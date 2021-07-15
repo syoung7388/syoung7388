@@ -1,6 +1,9 @@
 
-- 👋 Hi, I’m @syoung7388
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java/Vue/JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+"불편함을 혁신하자!"
+-면접 후, 앞으로의 어떻게 발전할건가?
+ 
+ 1) 모빌리티 포커스
+ 2) java/ spring을 더욱 꼼꼼하게
+ 3) used 수익적인 면을 생각해보기
+ 4) used 어플 출시
+ 5) 매주 일요일, used 시장 조사
