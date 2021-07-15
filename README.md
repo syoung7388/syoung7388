@@ -1,4 +1,4 @@
-- 면접 준비 중 입니다
+
 - 👋 Hi, I’m @syoung7388
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Java/Vue/JavaScript
